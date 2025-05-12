@@ -307,9 +307,9 @@ fullInitDatabase();
 
 ### User-flow диаграмма
 
-![User Flow](png/7_Сотрудник.png)
+![User Flow](png/7.png)
 
-![User Flow](png/8_Клиент.png)
+![User Flow](png/8.png)
 
 ---
 
